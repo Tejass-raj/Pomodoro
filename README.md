@@ -78,14 +78,6 @@ python main.py
 
 ---
 
-Example:
-
-```
-assets/pomodoro-timer.png
-```
-
----
-
 ## 🔮 Future Improvements
 
 - Customizable work and break durations
