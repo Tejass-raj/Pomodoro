@@ -78,10 +78,6 @@ python main.py
 
 ---
 
-## 📸 Preview
-
-*Add a screenshot of the application here.*
-
 Example:
 
 ```
